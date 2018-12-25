@@ -23,6 +23,7 @@ public class Ejemplo {
         for (int i = 0; i < resultado.size(); i++) {
             System.out.println(resultado.get(i));
         }
+        System.out.println("");
     }
     
 }
